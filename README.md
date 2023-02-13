@@ -2,12 +2,12 @@
 
 ## REV DUO
 
-The REV DUO line of parts work together for a dual purpose: to create competition-grade robots geared towards participating in the FIRST Tech Challenge or to be used in the classroom for STEM Education.REV Robotics is committed to designing high-quality products that make robotics accessible for any skill level. Since 2014, we have continued to iterate and adapt to the educational robotics community's needs by developing new products and refining our current product selection. 
+REV DUO бөлшектер желісі екі мақсатта бірге жұмыс істейді: FIRST Tech Challenge-ге қатысуға немесе STEM Education үшін сыныпта пайдалануға арналған бәсекелестік деңгейдегі роботтарды жасау. кез келген дағдылар деңгейіне қол жетімді робототехника. 2014 жылдан бастап біз жаңа өнімдерді әзірлеу және ағымдағы өнім таңдауымызды нақтылау арқылы білім беру робототехника қауымдастығының қажеттіліктерін қайталауды және бейімдеуді жалғастырдық.
 
-### What is REV DUO? <a href="#what-is-rev-duo" id="what-is-rev-duo"></a>
+### REV DUO дегеніміз не? <a href="#what-is-rev-duo" id="what-is-rev-duo"></a>
 
-REV DUO is a new brand that now includes all of our existing products and is the new home for many new products coming soon. Look for the REV DUO flag and logo on our website, and shop with confidence knowing all products are compatible and designed to work together seamlessly.
+REV DUO – қазір біздің барлық өнімдерімізді қамтитын жаңа бренд және жақын арада шығатын көптеген жаңа өнімдердің жаңа үйі. Біздің веб-сайттан REV DUO жалауы мен логотипін іздеңіз және барлық өнімдер үйлесімді және біркелкі жұмыс істеуге арналған екенін біліп, сеніммен сатып алыңыз.
 
-<figure><img src="https://2589213514-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FH9K1InCLC1ZxIkdPJt31%2Fuploads%2Fgdde5wPKEIPWrXH3LoW7%2FREV-45-2041-EDU_Kit_V2-FINAL__01041.webp?alt=media&#x26;token=f9f657b1-8489-4ea7-b6dd-106447ec016e" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://2589213514-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FH9K1InCLC1ZxIkdPJt31%2Fuploads%2FgddeW7V2PHw 45-2041-EDU_Kit_V2-FINAL__01041.webp?alt=media&#x26;token=f9f657b1-8489-4ea7-b6dd-106447ec016e" alt=""><figcaption></figcaption></figure
 
-If there is a question that is not answered by this documentation, send our support team an email; **\[EMAIL REDACTED]**. We are happy to help point you in the right direction.
+Осы құжаттамада жауап берілмеген сұрақ болса, қолдау көрсету тобына электрондық хат жіберіңіз; **\[ЭЛЕКТРОНДЫҚ ПОЧТА ӨЗГЕРІЛГЕН]**. Біз сізге дұрыс бағытты көрсетуге көмектесуге қуаныштымыз.
